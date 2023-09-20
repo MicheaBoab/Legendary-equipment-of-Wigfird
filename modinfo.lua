@@ -4,7 +4,7 @@ description = [[
     污秽之物不可容忍！
 ]]
 author = "我真的好美好美(魔改 by MicheaBoab)"
-version = "3.1"
+version = "3.2"
 
 forumthread = ""
 
